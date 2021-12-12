@@ -1,0 +1,15 @@
+C:\Users\Max\Documents\_projekte\adventOfCode\AdventOfCode_2021\AdventOfCode_2021\bin\Debug\net6.0\AdventOfCode_2021.exe
+C:\Users\Max\Documents\_projekte\adventOfCode\AdventOfCode_2021\AdventOfCode_2021\bin\Debug\net6.0\AdventOfCode_2021.deps.json
+C:\Users\Max\Documents\_projekte\adventOfCode\AdventOfCode_2021\AdventOfCode_2021\bin\Debug\net6.0\AdventOfCode_2021.runtimeconfig.json
+C:\Users\Max\Documents\_projekte\adventOfCode\AdventOfCode_2021\AdventOfCode_2021\bin\Debug\net6.0\AdventOfCode_2021.dll
+C:\Users\Max\Documents\_projekte\adventOfCode\AdventOfCode_2021\AdventOfCode_2021\bin\Debug\net6.0\ref\AdventOfCode_2021.dll
+C:\Users\Max\Documents\_projekte\adventOfCode\AdventOfCode_2021\AdventOfCode_2021\bin\Debug\net6.0\AdventOfCode_2021.pdb
+C:\Users\Max\Documents\_projekte\adventOfCode\AdventOfCode_2021\AdventOfCode_2021\obj\Debug\net6.0\AdventOfCode_2021.csproj.AssemblyReference.cache
+C:\Users\Max\Documents\_projekte\adventOfCode\AdventOfCode_2021\AdventOfCode_2021\obj\Debug\net6.0\AdventOfCode_2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\Documents\_projekte\adventOfCode\AdventOfCode_2021\AdventOfCode_2021\obj\Debug\net6.0\AdventOfCode_2021.AssemblyInfoInputs.cache
+C:\Users\Max\Documents\_projekte\adventOfCode\AdventOfCode_2021\AdventOfCode_2021\obj\Debug\net6.0\AdventOfCode_2021.AssemblyInfo.cs
+C:\Users\Max\Documents\_projekte\adventOfCode\AdventOfCode_2021\AdventOfCode_2021\obj\Debug\net6.0\AdventOfCode_2021.csproj.CoreCompileInputs.cache
+C:\Users\Max\Documents\_projekte\adventOfCode\AdventOfCode_2021\AdventOfCode_2021\obj\Debug\net6.0\AdventOfCode_2021.dll
+C:\Users\Max\Documents\_projekte\adventOfCode\AdventOfCode_2021\AdventOfCode_2021\obj\Debug\net6.0\ref\AdventOfCode_2021.dll
+C:\Users\Max\Documents\_projekte\adventOfCode\AdventOfCode_2021\AdventOfCode_2021\obj\Debug\net6.0\AdventOfCode_2021.pdb
+C:\Users\Max\Documents\_projekte\adventOfCode\AdventOfCode_2021\AdventOfCode_2021\obj\Debug\net6.0\AdventOfCode_2021.genruntimeconfig.cache
