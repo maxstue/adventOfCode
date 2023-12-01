@@ -15,20 +15,11 @@ textByLine.map((line) => {
     })
     .filter(Boolean);
 
-  let first = `${onlyNumbers[0]}`;
-  let last = `${onlyNumbers[onlyNumbers.length - 1]}`;
-  let result = "";
-  if (first && !last) {
-    result = first + first;
-  }
-  if (!first && last) {
-    result = last + last;
-  }
-  if (first && last) {
-    result = first + last;
-  }
+  const result = parseInt(
+    `${onlyNumbers[0]}${onlyNumbers[onlyNumbers.length - 1]}`
+  );
 
-  calcValues_1 = [...calcValues_1, Number(result)];
+  calcValues_1 = [...calcValues_1, result];
 });
 
 const sum = calcValues_1.reduce((a, b) => a + b, 0);
@@ -55,11 +46,11 @@ list = list.replaceAll("eight", "8");
 list = list.replaceAll("nine", "9");
 const listArr = list.split("\n");
 
-function countNumbers(data: string[]) {
+function countNumbers(lines: string[]) {
   let result = 0;
-  data.forEach((item, index) => {
+  lines.forEach((line) => {
     let numList = [] as string[];
-    item.split("").forEach((char) => {
+    line.split("").forEach((char) => {
       if (!isNaN(parseInt(char))) {
         numList.push(char);
       }
